@@ -185,6 +185,22 @@
     }
   },
   {
+    "title": "EcoAssistant: Using LLM Assistant More Affordably and Accurately",
+    "authors": [
+      "Jieyu Zhang",
+      "Ranjay Krishna",
+      "Ahmed H. Awadallah",
+      "Chi Wang"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2310.03046",
+      "code": "https://github.com/JieyuZ2/EcoAssistant"
+    },
+    "thumbnail": "/ecoassistant.png"
+  },
+  {
     "title": "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models",
     "authors": [
       "Cheng-Yu Hsieh",
