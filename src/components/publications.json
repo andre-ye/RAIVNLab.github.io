@@ -12,7 +12,7 @@
     "venue": "EMNLP Findings 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2310.12126"
-    },
+    }
   },
   {
     "title": "MatFormer: Nested Transformer for Elastic Inference",
