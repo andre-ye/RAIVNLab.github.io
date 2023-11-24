@@ -242,7 +242,7 @@ export default function Home() {
                 title="Ph.D., 2018 - 2023"
                 additional="Advisors: Ali Farhadi & Roozbeh Mottaghi, Research Scientist at AI2"
                 image="/hao.jpg"
-                website="https://homes.cs.washington.edu/~khzeng/"
+                website="https://kuohaozeng.github.io/"
               />
 
               <Person
