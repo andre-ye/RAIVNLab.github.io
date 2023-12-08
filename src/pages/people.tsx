@@ -212,20 +212,6 @@ export default function Home() {
                 website="https://mattwallingford.github.io/"
               />
               <Person
-                name="Aaron Walsman"
-                title="Ph.D. Student, 2015 - Now"
-                additional="Advisors: Ali Farhadi, Dieter Fox"
-                image="/aaron.jpg"
-                website="http://aaronwalsman.com/"
-              />
-              <Person
-                name="Mitchell Wortsman"
-                title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi, Ludwig Schmidt"
-                image="/mitchell.jpg"
-                website="https://mitchellnw.github.io/"
-              />
-              <Person
                 name="Jieyu Zhang"
                 title="Ph.D. Student, 2023 - Now"
                 additional="Advisor: Ranjay Krishna"
@@ -237,6 +223,20 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Mitchell Wortsman"
+                title="Ph.D. Student, 2019 - 2023"
+                additional="Advisors: Ali Farhadi, Ludwig Schmidt"
+                image="/mitchell.jpg"
+                website="https://mitchellnw.github.io/"
+              />
+              <Person
+                name="Aaron Walsman"
+                title="Ph.D. Student, 2015 - 2023"
+                additional="Advisors: Ali Farhadi, Dieter Fox"
+                image="/aaron.jpg"
+                website="http://aaronwalsman.com/"
+              />
               <Person
                 name="Kuo-Hao Zeng"
                 title="Ph.D., 2018 - 2023"
